@@ -1,0 +1,9 @@
+#navegation_bar{
+    display:flex;
+    justify-content: flex-end;
+       color: white;
+
+}
+#navegation_bar h3{
+    margin-right: 20px;
+ }
